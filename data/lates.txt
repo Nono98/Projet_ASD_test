@@ -1,0 +1,7 @@
+*lates
+1: late
+2: plates
+2: latest
+3: fates
+3: gates
+4: altes
